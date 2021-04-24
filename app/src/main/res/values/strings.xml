@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Instagram Downloader</string>
+    <string name="tab_1">URL</string>
+    <string name="tab_2">SAVED</string>
+</resources>
