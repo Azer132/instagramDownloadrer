@@ -2,4 +2,8 @@
     <string name="app_name">Instagram Downloader</string>
     <string name="tab_1">URL</string>
     <string name="tab_2">SAVED</string>
+    <string name="lorem_ipsum">lorem</string>
+    <string name="galery">Galery</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>

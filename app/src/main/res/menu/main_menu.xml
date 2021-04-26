@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item
+            android:id="@+id/galery"
+        android:icon="@drawable/galery"
+        android:title="@string/galery" />
+        <item
+            android:id="@+id/storuDownloader"
+            android:icon="@drawable/story_downloader"
+            android:title="Story Downloader" />
+        <item
+        android:id="@+id/language"
+        android:icon="@drawable/language"
+        android:title="Language"/>
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/exit"
+        android:title="Exit"
+        />
+    </group>
+
+</menu>
